@@ -1,4 +1,4 @@
-# SLY COOPER <a target="_blank" href="https://slycooperapi.cyclic.app/">API</a>
+# SLY COOPER API: <a target="_blank" href="https://slycooperapi.cyclic.app/">VISIT HERE</a>
 <a target="_blank" href="https://slycooperapi.cyclic.app/">
   <img src="img/slycooperbanner.png">
 </a>
@@ -20,6 +20,6 @@ When I improve the design of the API, I will implement API caching to boost perf
 Currently, the API only includes characters from the first game in the series: "Sly Cooper and the Thievius Raccoonus". Plans are being made to incorporate the rest of them as well.
 
 ## Learned Lessons:
-<p>One of the biggest lessons I have learned throughout making the Sly Cooper API besides that I find it very nostalgic is that developing an API isn't nearly as challenging as I thought it would be.</p>
+<p>One of the biggest lessons I have learned throughout making the SlyCooper API besides that I find it very nostalgic is that developing an API isn't nearly as challenging as I thought it would be.</p>
 <p>This is most certainly due to the ease with Cylic hosting paired with the HTTPS utility and middleware that Express provides within the Node.js environment. This allows me to spend most of my time the important tasks, like filtering the JSON based on client query parameters in a variety of methods.</p>
 <p>The importance of CORS, and how to use it along with understanding how servers listen to requests and port availability, were notable and make me much more capable of resolving common bugs to create a product enjoyed by every Sly fan worldwide.</p>
