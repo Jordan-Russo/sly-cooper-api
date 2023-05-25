@@ -1,5 +1,5 @@
 # SLY COOPER <a target="_blank" href="https://slycooperapi.cyclic.app/">API</a>
-<a target="_blank" href="https://www.codewars.com/users/Jordan-Russo">
+<a target="_blank" href="https://slycooperapi.cyclic.app/">
   <img src="img/slycooperbanner.png">
 </a>
 The SlyCooper API is a powerful tool that allows developers to access and utilize data related to the popular video game franchise, Sly Cooper. 
