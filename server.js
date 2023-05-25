@@ -7,6 +7,12 @@ app.use(cors())
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html')
 })
+app.get('/css/style.css', (req, res) => {
+  res.sendFile(__dirname + '/css/style.css')
+})
+app.get('/img/slycooperbackground.png', (req, res) => {
+  res.sendFile(__dirname + '/img/slycooperbackground.png')
+})
 app.get('/api/all', (req, res) => {
   res.json(characters)
   console.log('all')
