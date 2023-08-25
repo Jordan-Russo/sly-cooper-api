@@ -1,5 +1,5 @@
-# SLY COOPER API: <a target="_blank" href="https://slycooperapi.cyclic.app/">VISIT HERE</a>
-<a target="_blank" href="https://slycooperapi.cyclic.app/">
+# SLY COOPER API: <a target="_blank" href="https://slycooperapi.onrender.com/">VISIT HERE</a>
+<a target="_blank" href="https://slycooperapi.onrender.com/">
   <img src="img/slycooperbanner.png">
 </a>
 The SlyCooper API is a powerful tool that allows developers to access and utilize data related to the popular video game franchise, Sly Cooper. 
@@ -21,5 +21,5 @@ Currently, the API only includes characters from the first game in the series: "
 
 ## Learned Lessons:
 <p>One of the biggest lessons I have learned throughout making the SlyCooper API besides that I find it very nostalgic is that developing an API isn't nearly as challenging as I thought it would be.</p>
-<p>This is most certainly due to the ease with Cylic hosting paired with the HTTPS utility and middleware that Express provides within the Node.js environment. This allows me to spend most of my time the important tasks, like filtering the JSON based on client query parameters in a variety of methods.</p>
+<p>This is most certainly due to the ease with hosting paired with the HTTPS utility and middleware that Express provides within the Node.js environment. This allows me to spend most of my time the important tasks, like filtering the JSON based on client query parameters in a variety of methods.</p>
 <p>The importance of CORS, and how to use it along with understanding how servers listen to requests and port availability, were notable and make me much more capable of resolving common bugs to create a product enjoyed by every Sly fan worldwide.</p>
