@@ -1,5 +1,5 @@
-# SLY COOPER API: <a target="_blank" href="https://slycooperapi.onrender.com/">VISIT HERE</a>
-<a target="_blank" href="https://slycooperapi.onrender.com/">
+# SLY COOPER API: <a target="_blank" href="https://slyapi.onrender.com//">VISIT HERE</a>
+<a target="_blank" href="https://slyapi.onrender.com/">
   <img src="img/slycooperbanner.png">
 </a>
 The SlyCooper API is a powerful tool that allows developers to access and utilize data related to the popular video game franchise, Sly Cooper. 
