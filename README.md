@@ -1,4 +1,4 @@
-# SLY COOPER API: <a target="_blank" href="https://slyapi.onrender.com//">VISIT HERE</a>
+# SLY COOPER API: <a target="_blank" href="https://slyapi.onrender.com/">VISIT HERE</a>
 <a target="_blank" href="https://slyapi.onrender.com/">
   <img src="img/slycooperbanner.png">
 </a>
