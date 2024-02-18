@@ -10,26 +10,26 @@ export default function WelcomePage() {
       <p>The base URL for all API Endpoints is:
       </p>
       <p>
-        <code>https://slycooperapi.onrender.com/</code>
+        <code>https://slyapi.onrender.com/</code>
       </p>
     
       <h2>API Methods</h2>
 
       <h3>Search character by name</h3>
       <p>
-        <code>https://slycooperapi.onrender.com/api/Sly Cooper</code>
+        <code>https://slyapi.onrender.com/api/Sly Cooper</code>
       </p>
       <p>Retrieves information on a specific character from the Sly Cooper series. If the character is invalid or not found, an empty default JSON will be returned instead.</p>
     
       <h3>Lookup a random character</h3>
       <p>
-        <code>https://slycooperapi.onrender.com/api/random</code>
+        <code>https://slyapi.onrender.com/api/random</code>
       </p>
       <p>Retrieves information on a random character from the Sly Cooper series.</p>
 
       <h3>Retrieve all characters</h3>
       <p>
-        <code>https://slycooperapi.onrender.com/api/all</code>
+        <code>https://slyapi.onrender.com/api/all</code>
       </p>
       <p>Retrieves information on all characters from the Sly Cooper series.</p>
     
