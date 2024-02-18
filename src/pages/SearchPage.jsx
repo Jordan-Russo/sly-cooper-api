@@ -25,19 +25,6 @@ export default function SearchPage() {
     unknown
 )
   useEffect(() => {getCharacter(cleanedName, setInfo)}, [name])
-  // const data = getCharacter(name, setInfo)
-  // check what the name is
-  // if "all" then send a special query to grab all
-  // if a name then send a query to grab the info from that name
-    // if there's an error, return unknown result
-
-
-  // useEffect(() => {getCharacter(name, setInfo)}, [name]);
-
-  // have a useEffect that takes the name
-  // calls the api with the name
-  // setMatches with the returned data
-
   return (
     <p>
       {JSON.stringify(info)}

@@ -14,10 +14,6 @@ export default function App() {
           path="/api/:name"
           element={<SearchPage />}
           />
-        <Route
-          path="/api"
-          element={<SearchPage />}
-          />
       </Routes>
     </BrowserRouter>
   );
